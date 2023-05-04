@@ -1,0 +1,9 @@
+.me{
+    background-color: black;
+    height: 100vh;
+    border: solid 2pt black;
+}
+.you{
+    color: wheat;
+    background-color: black;
+}
